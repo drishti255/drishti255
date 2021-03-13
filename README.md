@@ -24,7 +24,7 @@ Since I am a huge data enthusiast, I research a lot and my recent interests incl
   <img align="right" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
  
 **Talking about Personal Stuffs:**
-- 👩🏻‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Analytics, Business Analytics ans QA;
+- 👩🏻‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Analytics, and QA;
 - 🌱 I’m currently learning Automation as well and working to improve my skills by learning to automate ios and android mobile  devices together; 
 - 🤔 My interests are Data Analysis, Visualization, and a bit of testing/automation on the side too(learning and growing never hurts, right?);
 - 💼 I’m Master's in Information System from Northeastern University;
