@@ -4,7 +4,7 @@
  
 <a href="https://www.linkedin.com/in/drishtishishodiya/">
   <img align="left" alt="Drishti's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://public.tableau.com/profile/manali.sharma#!/">
+<a href="https://public.tableau.com/profile/drishti8812#!/">
   <img align="left" alt="tableau" width="22px" src="https://www.biztory.com/hubfs/4_tableau-512.png" />
 </a>
 <a href="https://www.instagram.com/drishti_shishodiya/">
@@ -15,7 +15,7 @@
 <br />
 <br />
  
-I am a **data enthusiast**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Analyst** and **Data Scientist** in making. Currently, I'm a Github Team Member 👩🏻‍💻 [@ManaliSharma](https://github.com/drishti255) and a tableau power user [@tableau](https://public.tableau.com/profile/drishti8812#!/) . 
+I am a **data enthusiast**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Analyst** in making. Currently, I'm a Github Team Member 👩🏻‍💻 [@drishti255](https://github.com/drishti255) and a tableau power user [@tableau](https://public.tableau.com/profile/drishti8812#!/) . 
  
 Since I am a huge data enthusiast , I research a lot and my recent interests include Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
  
