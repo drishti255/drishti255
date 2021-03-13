@@ -21,7 +21,7 @@ I am a **data enthusiast**, a **recent engineering graduate from Northeastern Un
  
 Since I am a huge data enthusiast, I research a lot and my recent interests include Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
  
-  <img align="right" height="300" width="400" alt="GIF" src="https://github.com/drishti255/drishti255/blob/main/IMG_6165.JPG" />
+  <img align="right" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
  
 **Talking about Personal Stuffs:**
 - 👩🏻‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Analytics, Business Analytics ans QA;
