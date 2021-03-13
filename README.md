@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @drishti255
+- 👋 Hi there, I’m Drishti Shishodiya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning and making myself more proficient in analyzing and  visualizing dat!!
 - 💞️ I’m looking to collaborate on 
