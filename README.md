@@ -23,7 +23,7 @@ Since I am a huge data enthusiast, I research a lot and my recent interests incl
  
   <img align="right" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
  
-**Talking about Personal Stuffs:**
+**Get to know me more :):**
 - 👩🏻‍💻 I’m currently looking for full time opportunities in Business Intelligence, Data Analytics, and QA;
 - 🌱 I’m currently learning Automation as well and working to improve my skills by learning to automate ios and android mobile  devices together; 
 - 🤔 My interests are Data Analysis, Visualization, and a bit of testing/automation on the side too(learning and growing never hurts, right?);
@@ -32,7 +32,7 @@ Since I am a huge data enthusiast, I research a lot and my recent interests incl
 - 📫 Please email via drishti255@gmail.com to reach me.
 - ⚡ Fun fact: I am an avid learner. I love dancing, reading books, cooking and working out during my free time.
  
-**Experience**
+**My Experience**
 1) Worked in the Devops team as an IT Analyst at Granite Telecomunications, during my coop period, that was in the Spring of 2020.
 2) 1+ years of experience in Data Warehousing and Business Intelligence - Worked with entire data pipeline, right from data extraction, data integration and bringing out insights from visualizations and statistical inferences. Along with development of complex code bases for maintaining quality of data that is utilized for different purposes.
 3) 2 years of experience in Data Analytics - Worked on Insight driven Analysis, Data Visualization, Ad hoc Reporting, Forecasting, Business Impact analysis.
