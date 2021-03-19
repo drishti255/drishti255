@@ -42,7 +42,6 @@ drishti255/drishti255 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://user-images.githubusercontent.com/76786184/111852028-e2e0af80-88eb-11eb-8f53-7109992b48d5.png)
 
  
 
