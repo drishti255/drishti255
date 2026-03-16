@@ -6,27 +6,19 @@ I've spent most of my career in enterprise analytics, supporting Fortune 500 com
 
 Right now I'm focused on portfolio projects that apply what I've built professionally to new domains.
 
-<a href="https://www.linkedin.com/in/drishtishishodiya/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://public.tableau.com/app/profile/drishti8812">
-  <img align="left" alt="Tableau Public" width="22px" src="https://www.biztory.com/hubfs/4_tableau-512.png" />
-</a>
-
-<br />
-<br />
+📌 [LinkedIn](https://www.linkedin.com/in/drishtishishodiya/) · [Tableau Public](https://public.tableau.com/app/profile/drishti8812) · [GitHub](https://github.com/drishti255)
 
 ## What I Work With
 
 **SQL & Databases** — Snowflake, PostgreSQL, SQL Server, CTEs, window functions, complex joins
 
-**Python** — Pandas, NumPy, Plotly, workflow automation
+**BI & Visualization** — Tableau, Qlik, Power BI, Advanced Excel (Power Query, VBA, Pivot Tables)
 
-**BI & Visualization** — Tableau, Qlik, Power BI, Advanced Excel
-
-**Other** — dbt, GitHub, JIRA, Salesforce, GA4
+**Tools** — dbt, Salesforce CRM, GitHub, JIRA, Monday.com, SSRS, GA4, Azure Data Studio
 
 **AI Tools** — Claude (Anthropic), Microsoft Copilot; I use AI as a thought partner for analysis, debugging, and structuring work faster
+
+**Python** — Pandas, NumPy, Plotly, API-based workflows, automation
 
 ## Featured Project
 
