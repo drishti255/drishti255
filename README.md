@@ -6,7 +6,7 @@ I've spent most of my career in enterprise analytics, supporting Fortune 500 com
 
 Right now I'm focused on portfolio projects that apply what I've built professionally to new domains.
 
-📌 [LinkedIn](https://www.linkedin.com/in/drishtishishodiya/) · [Tableau Public](https://public.tableau.com/app/profile/drishti8812) · [GitHub](https://github.com/drishti255)
+📌 [LinkedIn](https://www.linkedin.com/in/drishtishishodiya/) · [Tableau Public](https://public.tableau.com/app/profile/drishti8812) · [Medium](https://medium.com/@drishti255) · [GitHub](https://github.com/drishti255)
 
 ## What I Work With
 
@@ -20,12 +20,15 @@ Right now I'm focused on portfolio projects that apply what I've built professio
 
 **Python** — Pandas, NumPy, Plotly, API-based workflows, automation
 
-## Featured Project
+## Featured Projects
 
 ### 🛒 [The Grocery Ghoster](https://github.com/drishti255/grocery-ghoster)
 Churn analysis on 3.3 million Instacart orders across 206,000 customers. Built end-to-end across Python, Snowflake, dbt, and Tableau. Key finding: 39.88% of customers show behavioral churn signals, and high-frequency customers are the most at risk.
 
 [View the Tableau Dashboard →](https://public.tableau.com/app/profile/drishti8812/viz/TheGroceryGhoster_CustomerChurnAnalysis/ChurnAnalysisDashboard)
+
+### 🎵 [How Bad Bunny's Super Bowl Performance Changed Spotify Overnight](https://medium.com/@drishti255/how-bad-bunnys-super-bowl-performance-changed-spotify-overnight-7ecd01031c82)
+Streaming analysis on Bad Bunny's Spotify data around his Super Bowl performance. Explored how a single live event drove a 330% spike in streams and what that tells us about the relationship between cultural moments and listener behavior.
 
 ## A Bit More
 
